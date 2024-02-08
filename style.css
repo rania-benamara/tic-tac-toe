@@ -1,0 +1,24 @@
+body{
+  background: black;
+  color: white;
+}
+
+button{
+  width: 260px;
+  border-radius: 120px;
+  margin: 20px;
+  cursor: pointer;
+}
+
+.reset-score-button {
+  margin-left: 35%;
+  padding: 50px;
+  font-size: large;
+  font-weight: bold;
+  background-color: rgba(255, 251, 0, 0.987);
+  cursor: pointer;
+}
+
+.reset-score-button:hover{
+  background-color: white;
+}
